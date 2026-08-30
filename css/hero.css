@@ -1,30 +1,23 @@
 .hero {
-  padding: 188px 0;
-  width: 1440px;
-  height: 600px;
-  background: #2e2f42;
+  background-color: #2e2f42;
 }
 
-.hero-item {
-  font-family: "Roboto", sans-serif;
-  font-weight: 700;
+.hero-title {
+  color: #ffffff;
   font-size: 56px;
-  line-height: 1.07143;
-  letter-spacing: 0.02em;
-  text-align: center;
-  color: #fff;
+  line-height: 1.07;
+  font-weight: 700;
 }
 
-.hero-btn {
-  border-radius: 4px;
-  padding: 16px 32px;
-  width: 169px;
-  height: 56px;
-  max-width: 169px;
-  background: #4d5ae5;
+.hero-button {
+  color: #ffffff;
+  background-color: #4d5ae5;
+  font-size: 16px;
+  line-height: 1.5;
+  font-weight: 500;
 }
 
-.hero-btn:hover,
-.hero-btn:focus {
+.hero-button:hover,
+.hero-button:focus {
   background-color: #404bbf;
 }
