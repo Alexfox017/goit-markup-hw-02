@@ -1,38 +1,16 @@
 .header {
-  border-bottom: 1px solid #e7e9fc;
 }
-
-.header-logo {
-  color: #4d5ae5;
-  font-family: "Raleway", sans-serif;
-  font-size: 18px;
-  line-height: 1.17;
-  font-weight: 700;
+.header-menu {
 }
-
-.header-logo span {
-  color: #2e2f42;
+.header-list {
 }
-
+.header-item {
+}
 .header-link {
-  color: #2e2f42;
-  font-size: 16px;
-  line-height: 1.5;
   font-weight: 500;
+  color: #2e2f42;
 }
-
 .header-link:hover,
 .header-link:focus {
-  color: #404bbf;
-}
-
-.header-contact {
-  color: #434455;
-  font-size: 16px;
-  line-height: 1.5;
-}
-
-.header-contact:hover,
-.header-contact:focus {
   color: #404bbf;
 }
